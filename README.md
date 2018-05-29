@@ -9,3 +9,6 @@ To practice follow [this](http://codefights.com).
 
 ### CodeWars
 To practice follow [this](http://codewars.com).
+
+### CodinGame
+To practice follow [this](https://www.codingame.com/).
